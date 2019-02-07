@@ -1,0 +1,14 @@
+{
+    "extends": "google",
+    "env": {
+        "node": true
+    },
+    "rules": {
+        "require-jsdoc": "off",
+        "new-cap": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    }
+}
